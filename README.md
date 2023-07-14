@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello My Github!&fontSize=90"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20My%20Github!&fontSize=90)
 
 
 My nickname Manwol<br>
