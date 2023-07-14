@@ -8,9 +8,13 @@ What does Manwol?<br>
 ![FullMoon](./Fullmoon.jpg)
 <br>
 
-Yes! I am Korean<br>
-My name TaeWan<br>
-I'm aiming for a developer<br>
+- Yes! I am Korean<br>
+
+- My name<br>
+    Teawan
+
+- Plans for the future<br>
+    I'm aiming for a developer<br>
 
 <div align = center>
 <b>📚Skill📚</b><br>
