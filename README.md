@@ -14,7 +14,7 @@ What does Manwol?<br>
     Teawan
 
 - Plans for the future<br>
-    I'm aiming for a developer<br>
+   I want to become a developer<br>
 
 <div align = center>
 <b>📚Skill📚</b><br>
