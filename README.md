@@ -24,6 +24,7 @@ Manwol means full moon in Korean<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=GitHub&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26.svg?&style=flat&logo=gitlab&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=white)
 ![react](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=react&logoColor=white)
