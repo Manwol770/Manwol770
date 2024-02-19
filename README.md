@@ -4,7 +4,7 @@
 My nickname Manwol<br>
 What does Manwol?<br>
 
-> Manwol means full moon in Korean<br>
+- Manwol means full moon in Korean<br>
 ![FullMoon](./Fullmoon.jpg)
 <br>
 
